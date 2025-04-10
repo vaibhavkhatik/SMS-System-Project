@@ -21,15 +21,12 @@ A security-focused Java-based web application designed to monitor user sessions 
 
 SelfMonitoringSystem/ │ ├── src/ │ ├── servlets/ │ └── utils/ │ ├── web/ │ ├── index.jsp │ ├── login.jsp │ ├── dashboard.jsp │ └── styles.css │ ├── WEB-INF/ │ └── web.xml │ └── README.md
 
-bash
-Copy
-Edit
 
 ## ⚙️ Setup Instructions
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/SelfMonitoringSystem.git
+   git clone https://github.com/vaibhavkhatik/SelfMonitoringSystem.git
 Import the project into your IDE (e.g., Eclipse) as a Dynamic Web Project.
 
 Configure Tomcat server and MySQL database.
@@ -45,10 +42,3 @@ Feel free to connect or contribute!
 📃 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-yaml
-Copy
-Edit
-
----
-
-Let me know if you want this in a downloadable `.md` file, or if you'd like to include actual screenshots, GitHub repo link, or
