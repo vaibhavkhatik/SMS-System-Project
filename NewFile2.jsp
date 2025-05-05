@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 function try1
 {
-	var a=document.getElementById("url").value;
+	var a=document.getElementById("url").value;1111
 	alert(a);
 	}
 
