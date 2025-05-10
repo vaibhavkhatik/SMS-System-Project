@@ -7,7 +7,7 @@
 
 <%@page import="com.Allcom"%>
 <%
-	if (session.getAttribute("username") != null) {
+	if (session.getAttribute("username") != null) 
 %>
 
 <!DOCTYPE HTML>
