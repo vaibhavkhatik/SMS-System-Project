@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 <script>
 function show(elementId) { 
-	  //now we kick out both conditional we do not n 
+	  //now we kick out both conditional we do not
 
 	  //we hide both forms
 	  document.getElementById("order").style.display="none";
