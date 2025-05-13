@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 <script>
 function show(elementId) { 
-	  //now we kick out both conditional we do not need the
+	  //now we kick out both conditional we do not need 
 
 	  //we hide both forms
 	  document.getElementById("order").style.display="none";
