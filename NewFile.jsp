@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 <script>
 function show(elementId) { 
-	  //now we kick out both
+	  //now we kick out bot
 
 	  //we hide both forms
 	  document.getElementById("order").style.display="none";
